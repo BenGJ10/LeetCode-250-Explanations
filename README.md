@@ -10,8 +10,8 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
-| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [We have to find the number of Queens arrangements on the chessboard. Using backtracking, we can find all the arrangements](./Backtracking/52.%20N-Queens%20II.md) |
-| [77. Combinations](https://leetcode.com/problems/combinations/) | [We have to find all the combinations of k numbers from 1 to n. With backtracking, we can explore all possible combinations and add the valid ones to our result list.](./Backtracking/77.%20Combinations.md) |
+| [52. N-Queens II](./Backtracking/52.%20N-Queens%20II.md) | We have to find the number of Queens arrangements on the chessboard. Using backtracking, we can find all the arrangements | 
+| [77. Combinations](./Backtracking/77.%20Combinations.md) | We have to find all the combinations of k numbers from 1 to n. With backtracking, we can explore all possible combinations and add the valid ones to our result list. |
 
 ---
 
