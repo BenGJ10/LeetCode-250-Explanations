@@ -1,0 +1,17 @@
+# NeetCode-250 Explanations
+
+This repository contains explanations for the problems listed in the **[NeetCode-250](https://neetcode.io/roadmap)**. Each problem is explained in detail, including the approach, time complexity, and space complexity. 
+
+I keep this repository updated with new explanations as I work through the problems. This is used as a personal reference and also to help others who are preparing for coding interviews.
+
+## [Backtracking](Backtracking/)
+
+`Backtracking` is a general algorithm for finding all (or some) solutions to computational problems, notably constraint satisfaction problems.
+
+| Problem | Explanation |
+|---------|-------------|
+| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [We have to find the number of Queens arrangements on the chessboard. Using backtracking, we can find all the arrangements](./Backtracking/52.%20N-Queens%20II.md) |
+| [77. Combinations](https://leetcode.com/problems/combinations/) | [We have to find all the combinations of k numbers from 1 to n. With backtracking, we can explore all possible combinations and add the valid ones to our result list.](./Backtracking/77.%20Combinations.md) |
+
+---
+
