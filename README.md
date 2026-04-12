@@ -10,11 +10,11 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
-| [52. N-Queens II](./Backtracking/52.%20N-Queens%20II.md) | We have to find the number of Queens arrangements on the chessboard. Using backtracking, we can find all the arrangements | 
-| [77. Combinations](./Backtracking/77.%20Combinations.md) | We have to find all the combinations of k numbers from 1 to n. With backtracking, we can explore all possible combinations and add the valid ones to our result list. |
-| [79. Word Search](./Backtracking/79.%20Word%20Search.md) | We have to find if a given word exists in a 2D grid of characters. Backtracking allows us to explore all possible paths in the grid to find the word. |
-| [140. Word Break II](./Backtracking/140.%20Word%20Break%20II.md) | We have to find all possible sentences that can be formed by concatenating words from a given dictionary. Backtracking helps us explore all combinations of words to form valid sentences. |
-| [698. Partition to K Equal Sum Subsets](./Backtracking/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md) | We have to determine if we can partition an array into k subsets with equal sums. Backtracking allows us to explore all possible partitions and check if they meet the criteria. |
+| [52. N-Queens II](./Backtracking/52.%20N-Queens%20II.md) | We have to find the number of Queens arrangements on the chessboard.| 
+| [77. Combinations](./Backtracking/77.%20Combinations.md) | We have to find all the combinations of k numbers from 1 to n.|
+| [79. Word Search](./Backtracking/79.%20Word%20Search.md) | We have to find if a given word exists in a 2D grid of characters. |
+| [140. Word Break II](./Backtracking/140.%20Word%20Break%20II.md) | We have to find all possible sentences that can be formed by concatenating words from a given dictionary. |
+| [698. Partition to K Equal Sum Subsets](./Backtracking/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md) | We have to determine if we can partition an array into k subsets with equal sums. |
 ---
 
 ## [Dynamic Programming](Dynamic%20Programming/)
@@ -23,9 +23,9 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
-| [213. House Robber II](./Dynamic%20Programming/213.%20House%20Robber%20II.md) | We have to find the maximum amount of money that can be robbed from a circular street of houses. Dynamic programming allows us to break down the problem into smaller subproblems and store the results to avoid redundant calculations. |
-| [416. Partition Equal Subset Sum](./Dynamic%20Programming/416.%20Partition%20Equal%20Subset%20Sum.md) | We have to determine if we can partition an array into two subsets with equal sums. Dynamic programming helps us explore all possible subset sums and check if we can achieve the target sum. |
-| [494. Target Sum](Dynamic%20Programming/494.%20Target%20Sum.md) | We have to find the number of ways to assign symbols to make a target sum. Dynamic programming allows us to explore all possible combinations of symbols and store the results to avoid redundant calculations. |
-
+| [213. House Robber II](./Dynamic%20Programming/213.%20House%20Robber%20II.md) | We have to find the maximum amount of money that can be robbed from a circular street of houses.  |
+| [416. Partition Equal Subset Sum](./Dynamic%20Programming/416.%20Partition%20Equal%20Subset%20Sum.md) | We have to determine if we can partition an array into two subsets with equal sums.  |
+| [494. Target Sum](Dynamic%20Programming/494.%20Target%20Sum.md) | We have to find the number of ways to assign symbols to make a target sum. |
+| [518. Coin Change 2](./Dynamic%20Programming/518.%20Coin%20Change%202.md) | We have to find the number of combinations that make up a given amount using a set of coins. |
 
 ---
