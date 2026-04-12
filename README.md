@@ -24,3 +24,6 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [213. House Robber II](./Dynamic%20Programming/213.%20House%20Robber%20II.md) | We have to find the maximum amount of money that can be robbed from a circular street of houses. Dynamic programming allows us to break down the problem into smaller subproblems and store the results to avoid redundant calculations. |
+| [416. Partition Equal Subset Sum](./Dynamic%20Programming/416.%20Partition%20Equal%20Subset%20Sum.md) | We have to determine if we can partition an array into two subsets with equal sums. Dynamic programming helps us explore all possible subset sums and check if we can achieve the target sum. |
+
+---
