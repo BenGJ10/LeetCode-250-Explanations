@@ -17,3 +17,10 @@ I keep this repository updated with new explanations as I work through the probl
 | [698. Partition to K Equal Sum Subsets](./Backtracking/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md) | We have to determine if we can partition an array into k subsets with equal sums. Backtracking allows us to explore all possible partitions and check if they meet the criteria. |
 ---
 
+## [Dynamic Programming](Dynamic%20Programming/)
+
+`Dynamic Programming` is a method for solving complex problems by breaking them down into simpler subproblems, storing the results of those subproblems to avoid redundant work.
+
+| Problem | Explanation |
+|---------|-------------|
+| [213. House Robber II](./Dynamic%20Programming/213.%20House%20Robber%20II.md) | We have to find the maximum amount of money that can be robbed from a circular street of houses. Dynamic programming allows us to break down the problem into smaller subproblems and store the results to avoid redundant calculations. |
