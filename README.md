@@ -29,5 +29,6 @@ I keep this repository updated with new explanations as I work through the probl
 | [416. Partition Equal Subset Sum](./Dynamic%20Programming/416.%20Partition%20Equal%20Subset%20Sum.md) | We have to determine if we can partition an array into two subsets with equal sums.  |
 | [494. Target Sum](Dynamic%20Programming/494.%20Target%20Sum.md) | We have to find the number of ways to assign symbols to make a target sum. |
 | [518. Coin Change 2](./Dynamic%20Programming/518.%20Coin%20Change%202.md) | We have to find the number of combinations that make up a given amount using a set of coins. |
+| [1143. Longest Common Subsequence](Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md) | We have to find the length of the longest common subsequence between two strings. | 
 
 ---
