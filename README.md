@@ -25,6 +25,7 @@ I keep this repository updated with new explanations as I work through the probl
 |---------|-------------|
 | [63. Unique Paths II](./Dynamic%20Programming/63.%20Unique%20Paths%20II.md) | We have to find the number of unique paths from the top-left corner to the bottom-right corner of a grid, considering obstacles. |
 | [64. Minimum Path Sum](./Dynamic%20Programming/64.%20Minimum%20Path%20Sum.md) | We have to find the minimum path sum from the top-left corner to the bottom-right corner of a grid. |
+| [115. Distinct Subsequences](./Dynamic%20Programming/115.%20Distinct%20Subsequences.md) | We have to find the number of distinct subsequences of a string that equals another string. |
 | [213. House Robber II](./Dynamic%20Programming/213.%20House%20Robber%20II.md) | We have to find the maximum amount of money that can be robbed from a circular street of houses.  |
 | [416. Partition Equal Subset Sum](./Dynamic%20Programming/416.%20Partition%20Equal%20Subset%20Sum.md) | We have to determine if we can partition an array into two subsets with equal sums.  |
 | [494. Target Sum](Dynamic%20Programming/494.%20Target%20Sum.md) | We have to find the number of ways to assign symbols to make a target sum. |
