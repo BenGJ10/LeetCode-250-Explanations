@@ -17,7 +17,20 @@ I keep this repository updated with new explanations as I work through the probl
 | [698. Partition to K Equal Sum Subsets](./Backtracking/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md) | We have to determine if we can partition an array into k subsets with equal sums. |
 ---
 
-## [Dynamic Programming](Dynamic%20Programming/)
+## [1-D Dynamic Programming](Dynamic%20Programming/)
+
+`Dynamic Programming` is a method for solving complex problems by breaking them down into simpler subproblems, storing the results of those subproblems to avoid redundant work.
+
+| Problem | Explanation |
+|---------|-------------|
+| [213. House Robber II](./Dynamic%20Programming/213.%20House%20Robber%20II.md) | We have to find the maximum amount of money that can be robbed from a circular street of houses.  |
+| [416. Partition Equal Subset Sum](./Dynamic%20Programming/416.%20Partition%20Equal%20Subset%20Sum.md) | We have to determine if we can partition an array into two subsets with equal sums.  |
+| [494. Target Sum](Dynamic%20Programming/494.%20Target%20Sum.md) | We have to find the number of ways to assign symbols to make a target sum. |
+
+---
+
+
+## [2-D Dynamic Programming](Dynamic%20Programming/)
 
 `Dynamic Programming` is a method for solving complex problems by breaking them down into simpler subproblems, storing the results of those subproblems to avoid redundant work.
 
@@ -26,10 +39,8 @@ I keep this repository updated with new explanations as I work through the probl
 | [63. Unique Paths II](./Dynamic%20Programming/63.%20Unique%20Paths%20II.md) | We have to find the number of unique paths from the top-left corner to the bottom-right corner of a grid, considering obstacles. |
 | [64. Minimum Path Sum](./Dynamic%20Programming/64.%20Minimum%20Path%20Sum.md) | We have to find the minimum path sum from the top-left corner to the bottom-right corner of a grid. |
 | [72. Edit Distance](./Dynamic%20Programming/72.%20Edit%20Distance.md) | We have to find the minimum number of operations required to convert one string into another. |
+| [97. Interleaving String](./Dynamic%20Programming/97.%20Interleaving%20String.md) | We have to determine if a string is an interleaving of two other strings. |
 | [115. Distinct Subsequences](./Dynamic%20Programming/115.%20Distinct%20Subsequences.md) | We have to find the number of distinct subsequences of a string that equals another string. |
-| [213. House Robber II](./Dynamic%20Programming/213.%20House%20Robber%20II.md) | We have to find the maximum amount of money that can be robbed from a circular street of houses.  |
-| [416. Partition Equal Subset Sum](./Dynamic%20Programming/416.%20Partition%20Equal%20Subset%20Sum.md) | We have to determine if we can partition an array into two subsets with equal sums.  |
-| [494. Target Sum](Dynamic%20Programming/494.%20Target%20Sum.md) | We have to find the number of ways to assign symbols to make a target sum. |
 | [518. Coin Change 2](./Dynamic%20Programming/518.%20Coin%20Change%202.md) | We have to find the number of combinations that make up a given amount using a set of coins. |
 | [1049. Last Stone Weight II](./Dynamic%20Programming/1049.%20Last%20Stone%20Weight%20II.md) | We have to find the smallest possible weight of the last remaining stone after smashing stones together. |
 | [1143. Longest Common Subsequence](Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md) | We have to find the length of the longest common subsequence between two strings. | 
