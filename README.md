@@ -24,6 +24,7 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [213. House Robber II](./Dynamic%20Programming/213.%20House%20Robber%20II.md) | We have to find the maximum amount of money that can be robbed from a circular street of houses.  |
+| [300. Longest Increasing Subsequence](./Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence.md) | We have to find the length of the longest increasing subsequence in an array. |
 | [416. Partition Equal Subset Sum](./Dynamic%20Programming/416.%20Partition%20Equal%20Subset%20Sum.md) | We have to determine if we can partition an array into two subsets with equal sums.  |
 | [494. Target Sum](Dynamic%20Programming/494.%20Target%20Sum.md) | We have to find the number of ways to assign symbols to make a target sum. |
 
