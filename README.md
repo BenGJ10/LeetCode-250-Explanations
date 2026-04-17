@@ -36,6 +36,7 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
+| [5. Longest Palindromic Substring](./Dynamic%20Programming/5.%20Longest%20Palindromic%20Substring.md) | We have to find the longest palindromic substring in a given string. |
 | [63. Unique Paths II](./Dynamic%20Programming/63.%20Unique%20Paths%20II.md) | We have to find the number of unique paths from the top-left corner to the bottom-right corner of a grid, considering obstacles. |
 | [64. Minimum Path Sum](./Dynamic%20Programming/64.%20Minimum%20Path%20Sum.md) | We have to find the minimum path sum from the top-left corner to the bottom-right corner of a grid. |
 | [72. Edit Distance](./Dynamic%20Programming/72.%20Edit%20Distance.md) | We have to find the minimum number of operations required to convert one string into another. |
