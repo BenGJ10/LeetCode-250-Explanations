@@ -41,6 +41,7 @@ I keep this repository updated with new explanations as I work through the probl
 | [72. Edit Distance](./Dynamic%20Programming/72.%20Edit%20Distance.md) | We have to find the minimum number of operations required to convert one string into another. |
 | [97. Interleaving String](./Dynamic%20Programming/97.%20Interleaving%20String.md) | We have to determine if a string is an interleaving of two other strings. |
 | [115. Distinct Subsequences](./Dynamic%20Programming/115.%20Distinct%20Subsequences.md) | We have to find the number of distinct subsequences of a string that equals another string. |
+| [309. Best Time to Buy and Sell Stock with Cooldown](./Dynamic%20Programming/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) | We have to find the maximum profit from stock trading with a cooldown period after selling. |
 | [518. Coin Change 2](./Dynamic%20Programming/518.%20Coin%20Change%202.md) | We have to find the number of combinations that make up a given amount using a set of coins. |
 | [1049. Last Stone Weight II](./Dynamic%20Programming/1049.%20Last%20Stone%20Weight%20II.md) | We have to find the smallest possible weight of the last remaining stone after smashing stones together. |
 | [1143. Longest Common Subsequence](Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md) | We have to find the length of the longest common subsequence between two strings. | 
