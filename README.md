@@ -15,6 +15,19 @@ I keep this repository updated with new explanations as I work through the probl
 | [79. Word Search](./Backtracking/79.%20Word%20Search.md) | We have to find if a given word exists in a 2D grid of characters. |
 | [140. Word Break II](./Backtracking/140.%20Word%20Break%20II.md) | We have to find all possible sentences that can be formed by concatenating words from a given dictionary. |
 | [698. Partition to K Equal Sum Subsets](./Backtracking/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md) | We have to determine if we can partition an array into k subsets with equal sums. |
+
+---
+
+## [Graphs](Graphs/)
+
+`Graphs` are a data structure that consists of a set of nodes (vertices) and a set of edges that connect pairs of nodes. They are used to represent relationships between entities.
+We cover core graph algorithms such as `Depth-First Search (DFS)`, `Breadth-First Search (BFS)`, `Dijkstra's Algorithm`, and `Topological Sort`.
+
+| Problem | Explanation |
+|---------|-------------|
+| [200. Number of Islands](./Graphs/200.%20Number%20of%20Islands.md) | We have to find the number of islands in a 2D grid. |
+| [994. Rotting Oranges](./Graphs/994.%20Rotting%20Oranges.md) | We have to find the minimum time required for all oranges to rot in a grid. |
+
 ---
 
 ## [1-D Dynamic Programming](Dynamic%20Programming/)
