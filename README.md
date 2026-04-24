@@ -18,18 +18,33 @@ I keep this repository updated with new explanations as I work through the probl
 
 ---
 
-## [Graphs](Graphs/)
+## [BFS and DFS](Graphs/)
 
-`Graphs` are a data structure that consists of a set of nodes (vertices) and a set of edges that connect pairs of nodes. They are used to represent relationships between entities.
-We cover core graph algorithms such as `Depth-First Search (DFS)`, `Breadth-First Search (BFS)`, `Dijkstra's Algorithm`, and `Topological Sort`.
+`Breadth-First Search (BFS)` is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root (or an arbitrary node of a graph) and explores the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
+
+`Depth-First Search (DFS)` is an algorithm for traversing or searching tree or graph data structures. It starts at the root node and explores as far as possible along each branch before backtracking.
 
 | Problem | Explanation |
 |---------|-------------|
+| [127. Word Ladder](./Graphs/127.%20Word%20Ladder.md) | Find the length of the shortest transformation sequence from a start word to an end word, changing only one letter at a time and using only words from a given dictionary. |
 | [130. Surrounded Regions](./Graphs/130.%20Surrounded%20Regions.md) | We have to capture all regions that are surrounded by 'X' in a 2D grid. |
+| [133. Clone Graph](./Graphs/133.%20Clone%20Graph.md) | Create a deep copy of an undirected graph and return the reference to the cloned graph. |
 | [200. Number of Islands](./Graphs/200.%20Number%20of%20Islands.md) | We have to find the number of islands in a 2D grid. |
 | [417. Pacific Atlantic Water Flow](./Graphs/417.%20Pacific%20Atlantic%20Water%20Flow.md) | We have to find the cells in a grid where water can flow to both the Pacific and Atlantic oceans. |
 | [785. Is Graph Bipartite?](./Graphs/785.%20Is%20Graph%20Bipartite.md) | We have to determine if a graph can be colored using two colors without adjacent nodes sharing the same color. |
 | [994. Rotting Oranges](./Graphs/994.%20Rotting%20Oranges.md) | We have to find the minimum time required for all oranges to rot in a grid. |
+
+---
+
+## [Topological Sort](Graphs/)
+
+`Topological Sort` is a linear ordering of vertices in a directed graph such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering.
+
+| Problem | Explanation |
+|---------|-------------|
+| [207. Course Schedule](./Graphs/207.%20Course%20Schedule.md) | We have to determine if it is possible to finish all courses given the prerequisites. |
+| [210. Course Schedule II](./Graphs/210.%20Course%20Schedule%20II.md) | We have to find the order of courses to finish all courses given the prerequisites. |
+| [310. Minimum Height Trees](./Graphs/310.%20Minimum%20Height%20Trees.md) | Task is to find the minimum height trees in a graph. |
 
 ---
 
