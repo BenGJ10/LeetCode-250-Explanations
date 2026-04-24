@@ -45,6 +45,7 @@ I keep this repository updated with new explanations as I work through the probl
 | [207. Course Schedule](./Graphs/207.%20Course%20Schedule.md) | We have to determine if it is possible to finish all courses given the prerequisites. |
 | [210. Course Schedule II](./Graphs/210.%20Course%20Schedule%20II.md) | We have to find the order of courses to finish all courses given the prerequisites. |
 | [310. Minimum Height Trees](./Graphs/310.%20Minimum%20Height%20Trees.md) | Task is to find the minimum height trees in a graph. |
+| [1462. Course Schedule IV](./Graphs/1462.%20Course%20Schedule%20IV.md) | We have to determine if one course is a prerequisite of another course given the prerequisites. |
 
 ---
 
