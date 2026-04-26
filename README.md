@@ -55,6 +55,7 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
+| [787. Cheapest Flights Within K Stops](./Graphs/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) | We have to find the cheapest price for a flight from a source city to a destination city with at most K stops. |
 | [1631. Path With Minimum Effort](./Graphs/1631.%20Path%20With%20Minimum%20Effort.md) | We have to find the path with the minimum effort in a grid of heights. |
 
 
