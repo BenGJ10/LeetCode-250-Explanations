@@ -49,6 +49,17 @@ I keep this repository updated with new explanations as I work through the probl
 
 ---
 
+## [Shortest Path Algorithms](Graphs/)
+
+`Shortest Path Algorithms` are algorithms used to find the shortest path between two vertices in a graph. Common algorithms include Dijkstra's algorithm, Bellman-Ford algorithm, and Floyd-Warshall algorithm.
+
+| Problem | Explanation |
+|---------|-------------|
+| [1631. Path With Minimum Effort](./Graphs/1631.%20Path%20With%20Minimum%20Effort.md) | We have to find the path with the minimum effort in a grid of heights. |
+
+
+---
+
 ## [1-D Dynamic Programming](Dynamic%20Programming/)
 
 `Dynamic Programming` is a method for solving complex problems by breaking them down into simpler subproblems, storing the results of those subproblems to avoid redundant work.
