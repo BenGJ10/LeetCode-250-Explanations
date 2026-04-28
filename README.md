@@ -17,7 +17,7 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [3. Longest Substring Without Repeating Characters](./Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Find the length of the longest substring without repeating characters in a given string. |
-|
+| [424. Longest Repeating Character Replacement](./Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.md) | Find the length of the longest substring that can be obtained by replacing at most k characters in a given string. |
 
 ---
 
