@@ -4,6 +4,23 @@ This repository contains explanations for the problems listed in the **[NeetCode
 
 I keep this repository updated with new explanations as I work through the problems. This is used as a personal reference and also to help others who are preparing for coding interviews.
 
+## [Two Pointers](Two%20Pointers/)
+
+`Two Pointers` is a technique used to solve problems that involve finding pairs or triplets of elements in an array that satisfy certain conditions. It involves using two pointers to traverse the array from both ends towards the center.
+
+---
+
+## [Sliding Window](Sliding%20Window/)
+
+`Sliding Window` is a technique used to solve problems that involve finding a contiguous subarray or substring that satisfies certain conditions. It involves maintaining a window of elements and sliding it across the data structure to find the desired result.
+
+| Problem | Explanation |
+|---------|-------------|
+| [3. Longest Substring Without Repeating Characters](./Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Find the length of the longest substring without repeating characters in a given string. |
+|
+
+---
+
 ## [Backtracking](Backtracking/)
 
 `Backtracking` is a general algorithm for finding all (or some) solutions to computational problems, notably constraint satisfaction problems.
