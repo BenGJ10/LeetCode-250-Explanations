@@ -17,6 +17,7 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [3. Longest Substring Without Repeating Characters](./Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Find the length of the longest substring without repeating characters in a given string. |
+| [76. Minimum Window Substring](./Sliding%20Window/76.%20Minimum%20Window%20Substring.md) | Find the minimum window in a string that contains all the characters of another string. |
 | [209. Minimum Size Subarray Sum](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.md) | Find the minimum length of a contiguous subarray of which the sum is greater than or equal to a given target. |
 | [424. Longest Repeating Character Replacement](./Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.md) | Find the length of the longest substring that can be obtained by replacing at most k characters in a given string. |
 
