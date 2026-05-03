@@ -1,6 +1,6 @@
 # NeetCode-250 Explanations
 
-This repository contains explanations for the problems listed in the **[NeetCode-250](https://neetcode.io/roadmap)**. Each problem is explained in detail, including the approach, time complexity, and space complexity. 
+This repository contains explanations for most of the problems listed in the **[NeetCode-250](https://neetcode.io/roadmap)** and hand-picked problems by myself. Each problem is explained in detail, including the approach, diagrams, code snippets, time complexity, and space complexity. 
 
 I keep this repository updated with new explanations as I work through the problems. This is used as a personal reference and also to help others who are preparing for coding interviews.
 
@@ -20,6 +20,7 @@ I keep this repository updated with new explanations as I work through the probl
 | [76. Minimum Window Substring](./Sliding%20Window/76.%20Minimum%20Window%20Substring.md) | Find the minimum window in a string that contains all the characters of another string. |
 | [209. Minimum Size Subarray Sum](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.md) | Find the minimum length of a contiguous subarray of which the sum is greater than or equal to a given target. |
 | [424. Longest Repeating Character Replacement](./Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.md) | Find the length of the longest substring that can be obtained by replacing at most k characters in a given string. |
+| [992. Subarrays with K Different Integers](./Sliding%20Window/992.%20Subarrays%20with%20K%20Different%20Integers.md) | Find the number of subarrays with exactly k different integers in a given array. |
 
 ---
 
