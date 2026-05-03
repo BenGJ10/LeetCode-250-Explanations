@@ -21,6 +21,7 @@ I keep this repository updated with new explanations as I work through the probl
 | [209. Minimum Size Subarray Sum](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.md) | Find the minimum length of a contiguous subarray of which the sum is greater than or equal to a given target. |
 | [424. Longest Repeating Character Replacement](./Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.md) | Find the length of the longest substring that can be obtained by replacing at most k characters in a given string. |
 | [992. Subarrays with K Different Integers](./Sliding%20Window/992.%20Subarrays%20with%20K%20Different%20Integers.md) | Find the number of subarrays with exactly k different integers in a given array. |
+| [1838. Frequency of the Most Frequent Element](./Sliding%20Window/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.md) | Find the maximum frequency of an element in an array after performing at most k increment operations. |
 
 ---
 
