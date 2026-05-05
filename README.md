@@ -11,7 +11,7 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [15. 3Sum](./Two%20Pointers/15.%203Sum.md) | Find all unique triplets in the array which gives the sum of zero. |
-
+| [18. 4Sum](./Two%20Pointers/18.%204Sum.md) | Find all unique quadruplets in the array which gives the sum of a target. |
 ---
 
 ## [Sliding Window](Sliding%20Window/)
