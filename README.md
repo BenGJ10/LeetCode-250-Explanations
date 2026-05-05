@@ -8,6 +8,10 @@ I keep this repository updated with new explanations as I work through the probl
 
 `Two Pointers` is a technique used to solve problems that involve finding pairs or triplets of elements in an array that satisfy certain conditions. It involves using two pointers to traverse the array from both ends towards the center.
 
+| Problem | Explanation |
+|---------|-------------|
+| [15. 3Sum](./Two%20Pointers/15.%203Sum.md) | Find all unique triplets in the array which gives the sum of zero. |
+
 ---
 
 ## [Sliding Window](Sliding%20Window/)
@@ -19,9 +23,10 @@ I keep this repository updated with new explanations as I work through the probl
 | [3. Longest Substring Without Repeating Characters](./Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Find the length of the longest substring without repeating characters in a given string. |
 | [76. Minimum Window Substring](./Sliding%20Window/76.%20Minimum%20Window%20Substring.md) | Find the minimum window in a string that contains all the characters of another string. |
 | [209. Minimum Size Subarray Sum](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.md) | Find the minimum length of a contiguous subarray of which the sum is greater than or equal to a given target. |
-| [424. Longest Repeating Character Replacement](./Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.md) | Find the length of the longest substring that can be obtained by replacing at most k characters in a given string. |
-| [992. Subarrays with K Different Integers](./Sliding%20Window/992.%20Subarrays%20with%20K%20Different%20Integers.md) | Find the number of subarrays with exactly k different integers in a given array. |
-| [1838. Frequency of the Most Frequent Element](./Sliding%20Window/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.md) | Find the maximum frequency of an element in an array after performing at most k increment operations. |
+| [424. Longest Repeating Character Replacement](./Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.md) | Find the length of the longest substring that can be obtained by replacing `at most k` characters in a given string. |
+| [992. Subarrays with K Different Integers](./Sliding%20Window/992.%20Subarrays%20with%20K%20Different%20Integers.md) | Find the number of subarrays with `exactly k` different integers in a given array. |
+| [1838. Frequency of the Most Frequent Element](./Sliding%20Window/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.md) | Find the maximum frequency of an element in an array after performing `at most k` increment operations. |
+| [2134. Minimum Swaps to Group All 1's Together](./Sliding%20Window/2134.%20Minimum%20Swaps%20to%20Group%20All%201's%20Together.md) | Find the minimum number of swaps required to group all 1's together in a binary `circular` array. |
 
 ---
 
