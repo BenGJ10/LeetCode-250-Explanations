@@ -33,6 +33,27 @@ I keep this repository updated with new explanations as I work through the probl
 
 ---
 
+## [Binary Search](Binary%20Search/)
+
+`Binary Search` is a search algorithm that finds the position of a target value within a sorted array. It works by repeatedly dividing the search interval in half until the target value is found or the interval is empty.
+
+| Problem | Explanation |
+|---------|-------------|
+| [2448. Minimum Cost to Make Array Equal](./Binary%20Search/2448.%20Minimum%20Cost%20to%20Make%20Array%20Equal.md) | Find the minimum cost to make all elements in an array equal by incrementing or decrementing elements. |
+
+
+---
+
+## [Heaps](Heaps/)
+
+`Heaps` are a specialized tree-based data structure that satisfies the heap property. In a max heap, for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C. In a min heap, the key of P is less than or equal to the key of C.
+
+| Problem | Explanation |
+|---------|-------------|
+| [973. K Closest Points to Origin](./Heaps/995.%20K%20Closest%20Points%20to%20Origin.md) | Find the k closest points to the origin in a 2D plane. |
+
+---
+
 ## [Backtracking](Backtracking/)
 
 `Backtracking` is a general algorithm for finding all (or some) solutions to computational problems, notably constraint satisfaction problems.
