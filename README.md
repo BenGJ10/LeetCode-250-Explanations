@@ -13,6 +13,7 @@ I keep this repository updated with new explanations as I work through the probl
 | [15. 3Sum](./Two%20Pointers/15.%203Sum.md) | Find all unique triplets in the array which gives the sum of zero. |
 | [18. 4Sum](./Two%20Pointers/18.%204Sum.md) | Find all unique quadruplets in the array which gives the sum of a target. |
 | [881. Boats to Save People](./Two%20Pointers/881.%20Boats%20to%20Save%20People.md) | Find the minimum number of boats required to save all people given their weights and the boat's limit. |
+| [2149. Rearrange Array Elements by Sign](./Two%20Pointers/2149.%20Rearrange%20Array%20Elements%20by%20Sign.md) | Rearrange the elements of an array such that positive and negative numbers are placed alternately. |
 ---
 
 ## [Sliding Window](Sliding%20Window/)
