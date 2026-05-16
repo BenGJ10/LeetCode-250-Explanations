@@ -40,6 +40,7 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [33. Search in Rotated Sorted Array](./Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.md) | Find the index of a target value in a rotated sorted array. |
+| [410. Split Array Largest Sum](./Binary%20Search/410.%20Split%20Array%20Largest%20Sum.md) | Split an array into `m` non-empty continuous subarrays and minimize the largest sum among these subarrays. |
 | [540. Single Element in a Sorted Array](./Binary%20Search/540.%20Single%20Element%20in%20a%20Sorted%20Array.md) | Find the single element in a sorted array where every other element appears twice. |
 
 
