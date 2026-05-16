@@ -39,6 +39,7 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
+| [33. Search in Rotated Sorted Array](./Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.md) | Find the index of a target value in a rotated sorted array. |
 | [2448. Minimum Cost to Make Array Equal](./Binary%20Search/2448.%20Minimum%20Cost%20to%20Make%20Array%20Equal.md) | Find the minimum cost to make all elements in an array equal by incrementing or decrementing elements. |
 
 
