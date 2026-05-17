@@ -10,6 +10,7 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
+| [48. Rotate Image](./Arrays/48.%20Rotate%20Image.md) | We have to rotate a given n x n 2D matrix by 90 degrees clockwise. |
 | [118. Pascal's Triangle](./Arrays/118.%20Pascal's%20Triangle.md) | We have to generate the first numRows of Pascal's triangle. |
 
 ---
