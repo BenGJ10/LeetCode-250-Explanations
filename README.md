@@ -4,6 +4,16 @@ This repository contains explanations for most of the problems listed in the **[
 
 I keep this repository updated with new explanations as I work through the problems. This is used as a personal reference and also to help others who are preparing for coding interviews.
 
+## [Arrays](Arrays/)
+
+`Arrays` are a fundamental data structure that store a fixed number of values of the same type. They allow for efficient access to elements using an index.
+
+| Problem | Explanation |
+|---------|-------------|
+| [118. Pascal's Triangle](./Arrays/118.%20Pascal's%20Triangle.md) | We have to generate the first numRows of Pascal's triangle. |
+
+---
+
 ## [Two Pointers](Two%20Pointers/)
 
 `Two Pointers` is a technique used to solve problems that involve finding pairs or triplets of elements in an array that satisfy certain conditions. It involves using two pointers to traverse the array from both ends towards the center.
