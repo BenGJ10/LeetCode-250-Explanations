@@ -75,6 +75,7 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
+| [40. Combination Sum II](./Backtracking/40.%20Combination%20Sum%20II.md) | We have to find all unique combinations of candidates where the candidate numbers sum to a target. Each number in candidates may only be used once in the combination. |
 | [52. N-Queens II](./Backtracking/52.%20N-Queens%20II.md) | We have to find the number of Queens arrangements on the chessboard.| 
 | [77. Combinations](./Backtracking/77.%20Combinations.md) | We have to find all the combinations of k numbers from 1 to n.|
 | [79. Word Search](./Backtracking/79.%20Word%20Search.md) | We have to find if a given word exists in a 2D grid of characters. |
