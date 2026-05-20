@@ -79,6 +79,7 @@ I keep this repository updated with new explanations as I work through the probl
 | [52. N-Queens II](./Backtracking/52.%20N-Queens%20II.md) | We have to find the number of Queens arrangements on the chessboard.| 
 | [77. Combinations](./Backtracking/77.%20Combinations.md) | We have to find all the combinations of k numbers from 1 to n.|
 | [79. Word Search](./Backtracking/79.%20Word%20Search.md) | We have to find if a given word exists in a 2D grid of characters. |
+| [131. Palindrome Partitioning](./Backtracking/131.%20Palindrome%20Partitioning.md) | We have to find all possible palindrome partitioning of a given string. |
 | [140. Word Break II](./Backtracking/140.%20Word%20Break%20II.md) | We have to find all possible sentences that can be formed by concatenating words from a given dictionary. |
 | [698. Partition to K Equal Sum Subsets](./Backtracking/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md) | We have to determine if we can partition an array into k subsets with equal sums. |
 
