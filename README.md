@@ -65,9 +65,11 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
-| [2. Add Two Numbers](./Linked%20Lists/2.%20Add%20Two%20Numbers.md) | Add two numbers represented as linked lists and return the sum as a linked list. |
-| [19. Remove Nth Node From End of List](./Linked%20Lists/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) | Remove the nth node from the end of a linked list and return its head. |
-| [146. LRU Cache](./Linked%20Lists/146.%20LRU%20Cache.md) | Design and implement a data structure for Least Recently Used (LRU) cache. |
+| [2. Add Two Numbers](./Linked%20Lists/2.%20Add%20Two%20Numbers.md) | Add `two` numbers represented as linked lists and return the sum as a linked list. |
+| [19. Remove Nth Node From End of List](./Linked%20Lists/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) | Remove the `nth` node from the end of a linked list and return its head. |
+| [146. LRU Cache](./Linked%20Lists/146.%20LRU%20Cache.md) | Design and implement a data structure for `Least Recently Used` (LRU) cache. |
+| [234. Palindrome Linked List](./Linked%20Lists/234.%20Palindrome%20Linked%20List.md) | Determine if a linked list is a palindrome in `O(n)` time and `O(1)` space. |
+
 ---
 
 ## [Heaps](Heaps/)
@@ -76,7 +78,7 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
-| [973. K Closest Points to Origin](./Heaps/995.%20K%20Closest%20Points%20to%20Origin.md) | Find the k closest points to the origin in a 2D plane. |
+| [973. K Closest Points to Origin](./Heaps/995.%20K%20Closest%20Points%20to%20Origin.md) | Find the `k` closest points to the origin in a 2D plane. |
 
 ---
 
@@ -86,11 +88,11 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
-| [40. Combination Sum II](./Backtracking/40.%20Combination%20Sum%20II.md) | We have to find all unique combinations of candidates where the candidate numbers sum to a target. Each number in candidates may only be used once in the combination. |
-| [52. N-Queens II](./Backtracking/52.%20N-Queens%20II.md) | We have to find the number of Queens arrangements on the chessboard.| 
-| [77. Combinations](./Backtracking/77.%20Combinations.md) | We have to find all the combinations of k numbers from 1 to n.|
-| [79. Word Search](./Backtracking/79.%20Word%20Search.md) | We have to find if a given word exists in a 2D grid of characters. |
-| [131. Palindrome Partitioning](./Backtracking/131.%20Palindrome%20Partitioning.md) | We have to find all possible palindrome partitioning of a given string. |
+| [40. Combination Sum II](./Backtracking/40.%20Combination%20Sum%20II.md) | We have to find all `unique` combinations of candidates where the candidate numbers sum to a target. Each number in candidates may only be `used once` in the combination. |
+| [52. N-Queens II](./Backtracking/52.%20N-Queens%20II.md) | We have to find the `number` of `Queens` arrangements on the chessboard.| 
+| [77. Combinations](./Backtracking/77.%20Combinations.md) | We have to find all the combinations of `k numbers` from 1 to n.|
+| [79. Word Search](./Backtracking/79.%20Word%20Search.md) | We have to find if a given `word exists` in a 2D grid of characters. |
+| [131. Palindrome Partitioning](./Backtracking/131.%20Palindrome%20Partitioning.md) | We have to find all possible `palindrome partitioning` of a given string. |
 | [140. Word Break II](./Backtracking/140.%20Word%20Break%20II.md) | We have to find all possible sentences that can be formed by concatenating words from a given dictionary. |
 | [698. Partition to K Equal Sum Subsets](./Backtracking/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md) | We have to determine if we can partition an array into k subsets with equal sums. |
 
