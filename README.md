@@ -1,6 +1,6 @@
-# NeetCode-250 Explanations
+# Hand-Picked 250 Explanations
 
-This repository contains explanations for most of the problems listed in the **[NeetCode-250](https://neetcode.io/roadmap)** and hand-picked problems by myself. Each problem is explained in detail, including the approach, diagrams, code snippets, time complexity, and space complexity. 
+This repository contains explanations for most of the problems listed in the **[NeetCode 250](https://neetcode.io/roadmap)**, **[Striver SDE Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems)**  and **hand-picked problems** by myself. Each problem is explained in detail, including the approach, diagrams, code snippets, time complexity, and space complexity. 
 
 I keep this repository updated with new explanations as I work through the problems. This is used as a personal reference and also to help others who are preparing for coding interviews.
 
@@ -56,6 +56,17 @@ I keep this repository updated with new explanations as I work through the probl
 | [410. Split Array Largest Sum](./Binary%20Search/410.%20Split%20Array%20Largest%20Sum.md) | Split an array into `m` non-empty continuous subarrays and minimize the largest sum among these subarrays. |
 | [540. Single Element in a Sorted Array](./Binary%20Search/540.%20Single%20Element%20in%20a%20Sorted%20Array.md) | Find the single element in a sorted array where every other element appears twice. |
 | [981. Time Based Key-Value Store](./Binary%20Search/981.%20Time%20Based%20Key-Value%20Store.md) | Implement a time-based key-value store that can retrieve the value of a key at a specific timestamp. |
+
+---
+
+## [Linked Lists](Linked%20Lists/)
+
+`Linked Lists` are a linear data structure where each element (called a node) contains a value and a reference (or link) to the next node in the sequence. They allow for efficient insertion and deletion of elements.
+
+| Problem | Explanation |
+|---------|-------------|
+| [2. Add Two Numbers](./Linked%20Lists/2.%20Add%20Two%20Numbers.md) | Add two numbers represented as linked lists and return the sum as a linked list. |
+
 
 ---
 
