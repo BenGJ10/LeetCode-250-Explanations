@@ -66,7 +66,7 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [2. Add Two Numbers](./Linked%20Lists/2.%20Add%20Two%20Numbers.md) | Add two numbers represented as linked lists and return the sum as a linked list. |
-
+| [19. Remove Nth Node From End of List](./Linked%20Lists/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) | Remove the nth node from the end of a linked list and return its head. |
 
 ---
 
