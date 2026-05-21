@@ -68,6 +68,7 @@ I keep this repository updated with new explanations as I work through the probl
 | [2. Add Two Numbers](./Linked%20Lists/2.%20Add%20Two%20Numbers.md) | Add `two` numbers represented as linked lists and return the sum as a linked list. |
 | [19. Remove Nth Node From End of List](./Linked%20Lists/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) | Remove the `nth` node from the end of a linked list and return its head. |
 | [25. Reverse Nodes in k-Group](./Linked%20Lists/25.%20Reverse%20Nodes%20in%20k-Group.md) | Reverse the nodes of a linked list `k` at a time and return its modified list. |
+| [143. Reorder List](./Linked%20Lists/143.%20Reorder%20List.md) | Reorder a linked list in a specific pattern. |
 | [146. LRU Cache](./Linked%20Lists/146.%20LRU%20Cache.md) | Design and implement a data structure for `Least Recently Used` (LRU) cache. |
 | [234. Palindrome Linked List](./Linked%20Lists/234.%20Palindrome%20Linked%20List.md) | Determine if a linked list is a palindrome in `O(n)` time and `O(1)` space. |
 
