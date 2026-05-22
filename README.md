@@ -83,8 +83,8 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
-| [94. Binary Tree Inorder Traversal](./Binary%20Trees/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Perform an inorder traversal of a binary tree and return the values. Do both recursive and iterative solutions. |
-
+| [94. Binary Tree Inorder Traversal](./Binary%20Trees/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Perform an `inorder` traversal of a binary tree and return the values. Do both `recursive` and `iterative` solutions. |
+| [199. Binary Tree Right Side View](./Binary%20Trees/199.%20Binary%20Tree%20Right%20Side%20View.md) | Return the values of the nodes that are visible from the `right side` of a binary tree. |
 ---
 
 ## [Heaps](Heaps/)
