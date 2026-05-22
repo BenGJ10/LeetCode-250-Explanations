@@ -77,6 +77,16 @@ I keep this repository updated with new explanations as I work through the probl
 
 ---
 
+## [Binary Trees](Binary%20Trees/)
+
+`Binary Trees` are a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. They are used in various applications such as expression parsing, binary search trees, and heaps.
+
+| Problem | Explanation |
+|---------|-------------|
+| [94. Binary Tree Inorder Traversal](./Binary%20Trees/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Perform an inorder traversal of a binary tree and return the values. Do both recursive and iterative solutions. |
+
+---
+
 ## [Heaps](Heaps/)
 
 `Heaps` are a specialized tree-based data structure that satisfies the heap property. In a max heap, for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C. In a min heap, the key of P is less than or equal to the key of C.
