@@ -87,7 +87,7 @@ I keep this repository updated with new explanations as I work through the probl
 | [199. Binary Tree Right Side View](./Binary%20Trees/199.%20Binary%20Tree%20Right%20Side%20View.md) | Return the values of the nodes that are visible from the `right side` of a binary tree. |
 | [543. Diameter of Binary Tree](./Binary%20Trees/543.%20Diameter%20of%20Binary%20Tree.md) | Find the `diameter` of a binary tree, which is the length of the longest path between any two nodes in the tree. |
 | [662. Maximum Width of Binary Tree](./Binary%20Trees/662.%20Maximum%20Width%20of%20Binary%20Tree.md) | Find the `maximum width` of a binary tree, which is the maximum number of nodes at any level. |
-
+| [987. Vertical Order Traversal of a Binary Tree](./Binary%20Trees/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md) | Return the vertical order traversal of a binary tree. |
 
 ---
 
