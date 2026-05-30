@@ -10,10 +10,10 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
-| [48. Rotate Image](./Arrays/48.%20Rotate%20Image.md) | We have to rotate a given n x n 2D matrix by 90 degrees clockwise. |
-| [118. Pascal's Triangle](./Arrays/118.%20Pascal's%20Triangle.md) | We have to generate the first numRows of Pascal's triangle. |
-| [128. Longest Consecutive Sequence](./Arrays/128.%20Longest%20Consecutive%20Sequence.md) | We have to find the length of the longest consecutive elements sequence in an unsorted array. |
-| [229. Majority Element II](./Arrays/229.%20Majority%20Element%20II.md) | We have to find all elements that appear more than n/3 times in an array. |
+| [48. Rotate Image](./Arrays/48.%20Rotate%20Image.md) | We have to `rotate` a given n x n 2D matrix by 90 degrees clockwise. |
+| [118. Pascal's Triangle](./Arrays/118.%20Pascal's%20Triangle.md) | We have to generate the first `numRows` of Pascal's triangle. |
+| [128. Longest Consecutive Sequence](./Arrays/128.%20Longest%20Consecutive%20Sequence.md) | We have to find the `length` of the `longest consecutive` elements sequence in an unsorted array. |
+| [229. Majority Element II](./Arrays/229.%20Majority%20Element%20II.md) | We have to find all elements that appear more than `n/3 times` in an array. |
 
 ---
 
@@ -23,8 +23,9 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
-| [49. Group Anagrams](./Strings/49.%20Group%20Anagrams.md) | We have to group anagrams together from a list of strings. |
-| [151. Reverse Words in a String](./Strings/151.%20Reverse%20Words%20in%20a%20String.md) | We have to reverse the order of words in a given string. |
+| [49. Group Anagrams](./Strings/49.%20Group%20Anagrams.md) | We have to `group` anagrams together from a list of strings. |
+| [151. Reverse Words in a String](./Strings/151.%20Reverse%20Words%20in%20a%20String.md) | We have to `reverse` the order of words in a given string. |
+| [567. Permutation in String](./Strings/567.%20Permutation%20in%20String.md) | We have to determine if one string is a `permutation` of another string. |
 
 ---
 
