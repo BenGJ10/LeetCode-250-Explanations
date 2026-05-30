@@ -17,6 +17,16 @@ I keep this repository updated with new explanations as I work through the probl
 
 ---
 
+## [Strings](Strings/)
+
+`Strings` are a sequence of characters used to represent text. They are a fundamental data type in programming and can be manipulated using various operations.
+
+| Problem | Explanation |
+|---------|-------------|
+| [151. Reverse Words in a String](./Strings/151.%20Reverse%20Words%20in%20a%20String.md) | We have to reverse the order of words in a given string. |
+
+---
+
 ## [Two Pointers](Two%20Pointers/)
 
 `Two Pointers` is a technique used to solve problems that involve finding pairs or triplets of elements in an array that satisfy certain conditions. It involves using two pointers to traverse the array from both ends towards the center.
