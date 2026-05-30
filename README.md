@@ -23,6 +23,7 @@ I keep this repository updated with new explanations as I work through the probl
 
 | Problem | Explanation |
 |---------|-------------|
+| [49. Group Anagrams](./Strings/49.%20Group%20Anagrams.md) | We have to group anagrams together from a list of strings. |
 | [151. Reverse Words in a String](./Strings/151.%20Reverse%20Words%20in%20a%20String.md) | We have to reverse the order of words in a given string. |
 
 ---
