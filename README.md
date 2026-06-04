@@ -24,6 +24,7 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [6. Zigzag Conversion](./Strings/6.%20Zigzag%20Conversion.md) | We have to convert a given string into a zigzag pattern on a given number of rows. |
+| [12. Integer to Roman](./Strings/12.%20Integer%20to%20Roman.md) | We have to convert an integer to a Roman numeral. |
 | [49. Group Anagrams](./Strings/49.%20Group%20Anagrams.md) | We have to `group` anagrams together from a list of strings. |
 | [151. Reverse Words in a String](./Strings/151.%20Reverse%20Words%20in%20a%20String.md) | We have to `reverse` the order of words in a given string. |
 | [567. Permutation in String](./Strings/567.%20Permutation%20in%20String.md) | We have to determine if one string is a `permutation` of another string. |
