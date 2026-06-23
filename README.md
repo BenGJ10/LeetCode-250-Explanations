@@ -91,6 +91,16 @@ I keep this repository updated with new explanations as I work through the probl
 
 ---
 
+## [Recursion](Recursion/)
+
+`Recursion` is a programming technique where a function calls itself in order to solve a problem. It is often used to solve problems that can be broken down into smaller, similar subproblems.
+
+| Problem | Explanation |
+|---------|-------------|
+| [50. Pow(x, n)](./Recursion/50.%20Pow(x,%20n).md) | Implement the function `pow(x, n)` that calculates x raised to the power n. |
+
+---
+
 ## [Binary Trees](Binary%20Trees/)
 
 `Binary Trees` are a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. They are used in various applications such as expression parsing, binary search trees, and heaps.
