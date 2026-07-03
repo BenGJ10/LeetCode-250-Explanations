@@ -38,6 +38,7 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [15. 3Sum](./Two%20Pointers/15.%203Sum.md) | Find all unique triplets in the array which gives the sum of zero. |
+| [16. 3Sum Closest](./Two%20Pointers/16.%203Sum%20Closest.md) | Find a triplet in the array such that the sum is closest to a given target. |
 | [18. 4Sum](./Two%20Pointers/18.%204Sum.md) | Find all unique quadruplets in the array which gives the sum of a target. |
 | [31. Next Permutation](./Two%20Pointers/31.%20Next%20Permutation.md) | Rearrange numbers into the lexicographically next greater permutation of numbers. |
 | [844. Backspace String Compare](./Two%20Pointers/844.%20Backspace%20String%20Compare.md) | Compare two strings to determine if they are equal when both are typed into empty text editors, where `#` represents a backspace character. |
