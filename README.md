@@ -102,6 +102,7 @@ I keep this repository updated with new explanations as I work through the probl
 |---------|-------------|
 | [46. Permutations](./Recursion/46.%20Permutations.md) | We have to find all possible permutations of a given array of integers. |
 | [50. Pow(x, n)](./Recursion/50.%20Pow(x,%20n).md) | Implement the function `pow(x, n)` that calculates x raised to the power n. |
+| [77. Combinations](./Recursion/77.%20Combinations.md) | We have to find all the combinations of `k numbers` from 1 to n. |
 | [90. Subsets II](./Recursion/90.%20Subsets%20II.md) | Find all possible subsets of a given set of integers, including duplicates. |
 
 ---
