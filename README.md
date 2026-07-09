@@ -230,3 +230,11 @@ I keep this repository updated with new explanations as I work through the probl
 | [1143. Longest Common Subsequence](Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md) | We have to find the length of the longest common subsequence between two strings. | 
 
 ---
+
+## [Partition DP](Partition%20DP/)
+
+`Partition DP` is a dynamic programming technique used to solve problems that involve partitioning a set of elements into subsets based on certain conditions.
+
+| Problem | Explanation |
+|---------|-------------|
+| [1547. Minimum Cost to Cut a Stick](./Partition%20DP/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.md) | We have to find the minimum cost to cut a stick into pieces at given positions. |
