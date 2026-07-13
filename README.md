@@ -239,4 +239,7 @@ I keep this repository updated with new explanations as I work through the probl
 |---------|-------------|
 | [132. Palindrome Partitioning II](./Partition%20DP/132.%20Palindrome%20Partitioning%20II.md) | We have to find the minimum number of cuts needed to partition a string such that every substring is a palindrome. |
 | [312. Burst Balloons](./Partition%20DP/312.%20Burst%20Balloons.md) | We have to find the maximum coins we can collect by bursting balloons wisely. |
+| [1043. Partition Array for Maximum Sum](./Partition%20DP/1043.%20Partition%20Array%20for%20Maximum%20Sum.md) | We have to partition an array into contiguous subarrays of length at most k and maximize the sum of the largest elements in each subarray. |
 | [1547. Minimum Cost to Cut a Stick](./Partition%20DP/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.md) | We have to find the minimum cost to cut a stick into pieces at given positions. |
+
+---
