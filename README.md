@@ -94,6 +94,19 @@ I keep this repository updated with new explanations as I work through the probl
 
 ---
 
+## [Stacks and Queues](Stacks/)
+
+`Stacks` are a linear data structure that follows the Last In First Out (LIFO) principle, where the last element added is the first one to be removed. `Queues` are a linear data structure that follows the First In First Out (FIFO) principle, where the first element added is the first one to be removed.
+
+| Problem | Explanation |
+|---------|-------------|
+| [496. Next Greater Element I](./Stacks/496.%20Next%20Greater%20Element%20I.md) | Find the next greater element for each element in an array. |
+
+
+
+
+---
+
 ## [Recursion](Recursion/)
 
 `Recursion` is a programming technique where a function calls itself in order to solve a problem. It is often used to solve problems that can be broken down into smaller, similar subproblems.
