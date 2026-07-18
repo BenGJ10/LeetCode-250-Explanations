@@ -101,9 +101,8 @@ I keep this repository updated with new explanations as I work through the probl
 | Problem | Explanation |
 |---------|-------------|
 | [84. Largest Rectangle in Histogram](./Stacks/84.%20Largest%20Rectangle%20in%20Histogram.md) | Find the area of the largest rectangle that can be formed in a histogram. |
+| [85. Maximal Rectangle](./Stacks/85.%20Maximal%20Rectangle.md) | Find the area of the largest rectangle containing only 1's in a 2D binary matrix. |
 | [496. Next Greater Element I](./Stacks/496.%20Next%20Greater%20Element%20I.md) | Find the next greater element for each element in an array. |
-
-
 
 
 ---
