@@ -102,6 +102,7 @@ I keep this repository updated with new explanations as I work through the probl
 |---------|-------------|
 | [84. Largest Rectangle in Histogram](./Stacks/84.%20Largest%20Rectangle%20in%20Histogram.md) | Find the area of the largest rectangle that can be formed in a histogram. |
 | [85. Maximal Rectangle](./Stacks/85.%20Maximal%20Rectangle.md) | Find the area of the largest rectangle containing only 1's in a 2D binary matrix. |
+| [402. Remove K Digits](./Stacks/402.%20Remove%20K%20Digits.md) | Remove `k` digits from a number represented as a string to make it the smallest possible number. |
 | [496. Next Greater Element I](./Stacks/496.%20Next%20Greater%20Element%20I.md) | Find the next greater element for each element in an array. |
 | [853. Car Fleet](./Stacks/853.%20Car%20Fleet.md) | Determine the number of car fleets that will arrive at a destination given their positions and speeds. |
 
