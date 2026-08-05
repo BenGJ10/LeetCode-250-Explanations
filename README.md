@@ -141,6 +141,7 @@ I keep this repository updated with new explanations as I work through the probl
 | [543. Diameter of Binary Tree](./Binary%20Trees/543.%20Diameter%20of%20Binary%20Tree.md) | Find the `diameter` of a binary tree, which is the length of the longest path between any two nodes in the tree. |
 | [662. Maximum Width of Binary Tree](./Binary%20Trees/662.%20Maximum%20Width%20of%20Binary%20Tree.md) | Find the `maximum width` of a binary tree, which is the maximum number of nodes at any level. |
 | [987. Vertical Order Traversal of a Binary Tree](./Binary%20Trees/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md) | Return the vertical order traversal of a binary tree. |
+| [1448. Count Good Nodes in Binary Tree](./Binary%20Trees/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.md) | Count the number of `good nodes` in a binary tree, where a node is considered good if it is greater than or equal to all the nodes on the path from the root to that node. |
 
 ---
 
